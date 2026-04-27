@@ -145,7 +145,7 @@ This system is the backend engine for:
 **Quite Scale AI** builds custom AI infrastructure and premium web systems for high-revenue service businesses in Istanbul and the MENA region.
 
 - 🌐 [quite-scale.ai](https://quite-scale.ai) *(coming soon)*
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-shaheer-rizwan-)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-shaheer-rizwan-/)
 - 🐦 [X / Twitter](https://x.com/quietscaleai)
 
 > *"You are losing wealthy international clients at 3 AM — not because your service is inferior, but because no one answered."*
