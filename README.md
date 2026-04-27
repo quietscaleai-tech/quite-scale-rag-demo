@@ -1,7 +1,7 @@
 # Quite Scale AI — Multilingual RAG Receptionist Demo
 
 > **Production-grade AI infrastructure for high-revenue service businesses.**  
-> Built by [Shaheer Rizwan](https://linkedin.com/in/muhammad-shaheer-rizwan) — Applied AI Engineer | FastAPI · LangChain · RAG Pipelines
+> Built by [Shaheer Rizwan](www.linkedin.com/in/muhammad-shaheer-rizwan-) — Applied AI Engineer | FastAPI · LangChain · RAG Pipelines
 
 ---
 
@@ -145,8 +145,8 @@ This system is the backend engine for:
 **Quite Scale AI** builds custom AI infrastructure and premium web systems for high-revenue service businesses in Istanbul and the MENA region.
 
 - 🌐 [quite-scale.ai](https://quite-scale.ai) *(coming soon)*
-- 💼 [LinkedIn](https://linkedin.com/in/muhammad-shaheer-rizwan)
-- 🐦 [X / Twitter](https://x.com/quitescaleai)
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-shaheer-rizwan-)
+- 🐦 [X / Twitter](https://x.com/quietscaleai)
 
 > *"You are losing wealthy international clients at 3 AM — not because your service is inferior, but because no one answered."*
 
